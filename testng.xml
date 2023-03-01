@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="TextNG.Menu"/>
+      <class name="TextNG.Frames"/>
+      <class name="TextNG.RegualrAssignments"/>
+      <class name="TextNG.PracticeForm"/>
+      <class name="TextNG.AutoComplete"/>
+      <class name="TextNG.BrokenLinksImages"/>
+      <class name="TextNG.DynamicProperties"/>
+      <class name="TextNG.UploadAndDownload"/>
+      <class name="TextNG.ProgressBar"/>
+      <class name="TextNG.SelectMenu"/>
+      <class name="TextNG.Draggable"/>
+      <class name="TextNG.resizable"/>
+      <class name="TextNG.RadioButton"/>
+      <class name="TextNG.Buttons"/>
+      <class name="TextNG.Links"/>
+      <class name="TextNG.Tabs"/>
+      <class name="TextNG.Slider"/>
+      <class name="TextNG.Interations"/>
+      <class name="TextNG.DatePicker"/>
+      <class name="TextNG.CheckBox"/>
+      <class name="TextNG.JoinNow"/>
+      <class name="TextNG.NestedFrames"/>
+      <class name="TextNG.WeekendClasses"/>
+      <class name="TextNG.TextBox"/>
+      <class name="TextNG.Forms"/>
+      <class name="TextNG.AlertsFrames"/>
+      <class name="TextNG.BrowserWindow"/>
+      <class name="TextNG.ModalDialog"/>
+      <class name="TextNG.ToolTips"/>
+      <class name="TextNG.Widgets"/>
+      <class name="TextNG.VisitMainPage"/>
+      <class name="TextNG.Alerts"/>
+      <class name="TextNG.BookStore"/>
+      <class name="TextNG.Droppable"/>
+      <class name="TextNG.WebTables"/>
+      <class name="TextNG.ElementsCard"/>
+      <class name="TextNG.VerifyLogo"/>
+      <class name="TextNG.Sortable"/>
+      <class name="TextNG.Selectable"/>
+      <class name="TextNG.Accordian"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
